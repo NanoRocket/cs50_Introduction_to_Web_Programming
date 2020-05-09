@@ -1,20 +1,5 @@
 <html>
 
-    <head>
-
-        <meta charset="utf-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-
-        <meta property="og:title" content="Project 0: Homepage"/>
-
-        <title>Project 0: Homepage</title>
-
-    </head>
-
-    <body>
-        <div class="container-lg px-3 my-3 markdown-body">
-            <h1 id="project-0-homepage">Project 0: Homepage</h1>
-
 <h2 id="objectives">Objectives</h2>
 
 <ul>
